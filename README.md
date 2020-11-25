@@ -1,6 +1,6 @@
 # >Ponga ._
 
-Already is upload in the Google Play Store (https://play.google.com/store/apps/details?id=com.MagmaticLLC.Ponga&hl=es_CO&gl=US)
+Already is upload in the [Google Play Store](https://play.google.com/store/apps/details?id=com.MagmaticLLC.Ponga&hl=es_CO&gl=US)
 
 it's an open source game made in Unity 2D.
 
